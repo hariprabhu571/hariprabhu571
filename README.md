@@ -1,10 +1,9 @@
 ![Banner](https://github.com/hariprabhu571/hariprabhu571/blob/main/banner2.png)
 
-## Hari Raja Prabhu
+# Hari Raja Prabhu
 # 💫 About Me:
-## I'm a passionate Computer Science Engineering student at SIMATS University, with a strong foundation in programming languages like Java, C++, HTML, CSS, JavaScript, and MySQL. I excel in utilizing tools and platforms such as Visual Studio Code, Figma, WordPress, Azure, and GitHub.
-
-Throughout my academic journey, I have gained extensive knowledge in areas like Object-Oriented Programming, Artificial Intelligence, Data Structures & Algorithms, Computer Architecture, and Design Analysis and Algorithms. I am driven by a desire to create innovative solutions and continuously expand my skills
+I'm a passionate Computer Science Engineering student at SIMATS University, with a strong foundation in programming languages like Java, C++, HTML, CSS, JavaScript, and MySQL. I excel in utilizing tools and platforms such as Visual Studio Code, Figma, WordPress, Azure, and GitHub.
+Throughout my academic journey, I have gained extensive knowledge in areas like Object-Oriented Programming, Artificial Intelligence, Data Structures & Algorithms, Computer Architecture, and Design Analysis and Algorithms. I am driven by a desire to create innovative solutions and continuously expand my skills.
 
 
 ## 🌐 Socials:
