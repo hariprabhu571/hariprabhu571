@@ -18,7 +18,6 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
 <a href="https://www.youtube.com/c/createeverything9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="createeverything9923" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hariprabhu571" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-<br>
 <h3 align="left"><b>💻 Languages and Tools:</b></h3>
 <p align="left"> <br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
@@ -43,8 +42,7 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 </p>
-<br>
-<h3 align="left"><b>Leetcode Badges:</b></h3>
+<h3 align="left"><b>LeetCode: </b></h3>
 
 <table style="width: 100%; border: none;">
   <tr style="border: none;">
