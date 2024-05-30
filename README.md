@@ -45,17 +45,20 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
 </p>
 <br>
 <h3 align="left"><b>Leetcode Badges:</b></h3>
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="flex-grow: 1;">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px">
-    </div>
-    <div style="flex-grow: 1; text-align: right;">
-        <a href="https://leetcode.com/Hariprabhu_571/">
-            <img src="https://leetcard.jacoblin.cool/Hariprabhu_571?&font=Goldman&ext=activity" width="300px">
-        </a>
-    </div>
-</div>
+
+<table style="width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; text-align: left;">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px">
+    </td>
+    <td style="border: none; text-align: right;">
+      <a href="https://leetcode.com/Hariprabhu_571/">
+        <img src="https://leetcard.jacoblin.cool/Hariprabhu_571?&font=Goldman&ext=activity" width="300px">
+      </a>
+    </td>
+  </tr>
+</table>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hariprabhu571&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hariprabhu571&theme=dark&hide_border=false)<br/>
