@@ -49,13 +49,16 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
 <table style="width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none; text-align: left;">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td style="border: none; text-align: right;">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://leetcode.com/Hariprabhu_571/">
-        <img src="https://leetcard.jacoblin.cool/Hariprabhu_571?&font=Goldman&ext=activity" width="300px">
+        <img src="https://leetcard.jacoblin.cool/Hariprabhu_571?&font=monospace&ext=activityy" width="500px">
       </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
