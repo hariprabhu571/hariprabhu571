@@ -16,8 +16,8 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
   <a href="https://www.leetcode.com/hariprabhu_571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hariprabhu_571" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/its_me_hari_3103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_hari_3103" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hariprabhu571" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
+  <br><br>
 <a href="https://www.youtube.com/c/createeverything9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="createeverything9923" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<br>
 <a href="https://auth.geeksforgeeks.org/user/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hariprabhu571" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
