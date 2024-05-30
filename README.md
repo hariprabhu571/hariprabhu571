@@ -52,11 +52,11 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td style="border: none; text-align: right;">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://leetcode.com/Hariprabhu_571/">
-        <img src="https://leetcard.jacoblin.cool/Hariprabhu_571?&font=monospace&ext=activityy" width="500px">
+        <img src="https://leetcard.jacoblin.cool/Hariprabhu_571?theme=dark&font=monospace&ext=heatmap" width="400px">
       </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
