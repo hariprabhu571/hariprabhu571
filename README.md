@@ -14,16 +14,11 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
 <a href="https://twitter.com/harirajaprabhu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harirajaprabhu3" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hariprabhu571" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/its_me_hari_3103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_hari_3103" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hariprabhu571" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
+<br><br>
 <a href="https://www.youtube.com/c/createeverything9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="createeverything9923" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hariprabhu571" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<h3 align="left"><b>💻 Leetcode Badges:</b></h3>
-<p align="left"> <br>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
-</p>
 <h3 align="left"><b>💻 Languages and Tools:</b></h3>
 <p align="left"> <br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
@@ -45,7 +40,12 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-
+</p>
+<br>
+<h3 align="left"><b>💻 Leetcode Badges:</b></h3>
+<p align="left"> <br>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hariprabhu571&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
