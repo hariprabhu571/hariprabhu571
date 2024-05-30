@@ -5,7 +5,7 @@
 <h3 align="left"> <b><u>💫 About Me</u></b></h3>
 I'm a passionate Computer Science Engineering student at SIMATS University, with a strong foundation in programming languages like Java, C++, HTML, CSS, JavaScript, and MySQL. I excel in utilizing tools and platforms such as Visual Studio Code, Figma, WordPress, Azure, and GitHub.Throughout my academic journey, I have gained extensive knowledge in Object-Oriented Programming, Artificial Intelligence, Data Structures & Algorithms, Computer Architecture, and Design Analysis and Algorithms. I am driven by a desire to create innovative solutions and continuously expand my skills.
 
-<img align="right" height="500" width="500" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" />
+<img align="right" height="400" width="600" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1717105024~exp=1717105624~hmac=6fdeda44017285e62be1bb7f73e319a9166d64fc0a04945c3f7bd0432fb6a945" />
 
 <h3 align="left"> <b>🌐 <u>Connect with me:</u></b></h3>
 <p align="left"><br>
