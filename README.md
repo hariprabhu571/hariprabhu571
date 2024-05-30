@@ -5,7 +5,7 @@
 <h3 align="left"> <b><u>💫 About Me</u></b></h3>
 I'm a passionate Computer Science Engineering student at SIMATS University, with a strong foundation in programming languages like Java, C++, HTML, CSS, JavaScript, and MySQL. I excel in utilizing tools and platforms such as Visual Studio Code, Figma, WordPress, Azure, and GitHub.Throughout my academic journey, I have gained extensive knowledge in Object-Oriented Programming, Artificial Intelligence, Data Structures & Algorithms, Computer Architecture, and Design Analysis and Algorithms. I am driven by a desire to create innovative solutions and continuously expand my skills.
 
-<img align="right" height="400" width="500" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1717105024~exp=1717105624~hmac=6fdeda44017285e62be1bb7f73e319a9166d64fc0a04945c3f7bd0432fb6a945" />
+<img align="right" height="350" width="450" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1717105024~exp=1717105624~hmac=6fdeda44017285e62be1bb7f73e319a9166d64fc0a04945c3f7bd0432fb6a945" />
 
 <h3 align="left"> <b>🌐 <u>Connect with me:</u></b></h3>
 <p align="left"><br>
@@ -15,7 +15,6 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
 <a href="https://medium.com/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hariprabhu571" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/its_me_hari_3103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_hari_3103" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hariprabhu571" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
-<br><br>
 <a href="https://www.youtube.com/c/createeverything9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="createeverything9923" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/hariprabhu571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hariprabhu571" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
