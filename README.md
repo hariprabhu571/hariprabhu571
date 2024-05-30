@@ -44,10 +44,15 @@ I'm a passionate Computer Science Engineering student at SIMATS University, with
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<h3 align="left"><b>💻 Leetcode Badges:</b></h3>
-<p align="left"> <br>
+<h3 align="left"><b>Leetcode Badges:</b></h3>
+<p align="left">
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
+</p>
+<p align ="right">
+<a href="https://leetcode.com/Hariprabhu_571/">
+    <img src="https://leetcard.jacoblin.cool/Hariprabhu_571?&font=monospace&ext=activityy"></img>
+<a>
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hariprabhu571&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
