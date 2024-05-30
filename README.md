@@ -1,13 +1,12 @@
 ![Banner](https://github.com/hariprabhu571/hariprabhu571/blob/main/banner1.png)
 
 # Hi 👋, I'm Hari Raja Prabhu
-
-## 💫 About Me:
+<br>
+<h3 align="left"> <b><u>💫 About Me</u></b></h3>
 I'm a passionate Computer Science Engineering student at SIMATS University, with a strong foundation in programming languages like Java, C++, HTML, CSS, JavaScript, and MySQL. I excel in utilizing tools and platforms such as Visual Studio Code, Figma, WordPress, Azure, and GitHub.Throughout my academic journey, I have gained extensive knowledge in Object-Oriented Programming, Artificial Intelligence, Data Structures & Algorithms, Computer Architecture, and Design Analysis and Algorithms. I am driven by a desire to create innovative solutions and continuously expand my skills.
 
-<img align="right" height="400" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="500" width="500" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" />
 
-<br>
 <h3 align="left"> <b>🌐 <u>Connect with me:</u></b></h3>
 <p align="left"><br>
 <a href="https://linkedin.com/in/hari-raja-prabhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-raja-prabhu" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
